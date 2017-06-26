@@ -1,7 +1,7 @@
 # Snackbar
 Customizable snackbar for android applications.
 
-# Features
+## Features
 - Can place the snackbar on the top
 
 ## Technologies Used
